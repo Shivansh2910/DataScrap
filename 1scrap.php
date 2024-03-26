@@ -1,6 +1,9 @@
 <?php
 include('simple_html_dom.php');
 
+
+
+
 //Simple way to Scrap ANYTHING by URL
 /*
 $html = file_get_html('https://www.nbetlogistics.com:8081/trackconsignment.php?consignment_no=4019415');
